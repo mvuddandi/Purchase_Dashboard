@@ -1,0 +1,21 @@
+Document,Status,Count
+Purchase Request,Created,48
+Purchase Request,In process,3
+Purchase Request,Approved,25
+Purchase Request,Closed,28
+Purchase Order,Created,16
+Purchase Order,In process,44
+Purchase Order,Approved,37
+Purchase Order,Closed,20
+Goods Receipt,Created,36
+Goods Receipt,In process,33
+Goods Receipt,Approved,36
+Goods Receipt,Closed,43
+Invoiced,Created,42
+Invoiced,In process,30
+Invoiced,Approved,9
+Invoiced,Closed,42
+Paid,Created,14
+Paid,In process,23
+Paid,Approved,2
+Paid,Closed,40
